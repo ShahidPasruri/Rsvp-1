@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ShahidPasruri/Rsvp-1.git/static/css/main.d1daa8b8.chunk.css",
+    "main.js": "/ShahidPasruri/Rsvp-1.git/static/js/main.832084e9.chunk.js",
+    "main.js.map": "/ShahidPasruri/Rsvp-1.git/static/js/main.832084e9.chunk.js.map",
+    "runtime-main.js": "/ShahidPasruri/Rsvp-1.git/static/js/runtime-main.c8c41cb8.js",
+    "runtime-main.js.map": "/ShahidPasruri/Rsvp-1.git/static/js/runtime-main.c8c41cb8.js.map",
+    "static/js/2.3ad8130c.chunk.js": "/ShahidPasruri/Rsvp-1.git/static/js/2.3ad8130c.chunk.js",
+    "static/js/2.3ad8130c.chunk.js.map": "/ShahidPasruri/Rsvp-1.git/static/js/2.3ad8130c.chunk.js.map",
+    "index.html": "/ShahidPasruri/Rsvp-1.git/index.html",
+    "static/css/main.d1daa8b8.chunk.css.map": "/ShahidPasruri/Rsvp-1.git/static/css/main.d1daa8b8.chunk.css.map",
+    "static/js/2.3ad8130c.chunk.js.LICENSE.txt": "/ShahidPasruri/Rsvp-1.git/static/js/2.3ad8130c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ShahidPasruri/Rsvp-1.git/static/media/header-bg.1d217543.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8c41cb8.js",
+    "static/js/2.3ad8130c.chunk.js",
+    "static/css/main.d1daa8b8.chunk.css",
+    "static/js/main.832084e9.chunk.js"
+  ]
+}
